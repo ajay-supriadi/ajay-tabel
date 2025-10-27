@@ -1,0 +1,2 @@
+# ajay-tabel
+latihn tabel
